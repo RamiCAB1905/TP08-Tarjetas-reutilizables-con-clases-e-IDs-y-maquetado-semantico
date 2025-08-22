@@ -10,12 +10,12 @@ Este sitio presenta tarjetas informativas sobre inventos clave en la historia. L
 - Se usaron `span` (inline) para resaltar palabras sin romper la línea.
 - Los **id** se usaron para anclas y elementos únicos como `#titulo-principal`.
 
-## 🛠 Tecnologías
+## Tecnologías
 - HTML5
 - CSS3
 - Google Fonts (Roboto)
 
-## 📂 Estructura
+## Estructura
 - index.html
 - coleccion.html
 - css/styles.css
@@ -23,9 +23,9 @@ Este sitio presenta tarjetas informativas sobre inventos clave en la historia. L
 -README.md
 
 ## Visualización
+> https://ramicab1905.github.io/TP08-Tarjetas-reutilizables-con-clases-e-IDs-y-maquetado-semantico/
 
-
-## 🙋 Autor
+## Autor
 Nombre: Ramiro Camara  
 Curso: Laboratorio de Programación - 6° G  
 Contacto: ramiro.camara249@gmail.com
